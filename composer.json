@@ -1,7 +1,7 @@
 {
     "name": "hojjabr/persianslug",
     "description": "Persian Slug generator for Laravel 6",
-    "license": "The Unlicense",
+    "license": "unlicense",
     "authors": [
         {
             "name": "Hossein Jabbari",
