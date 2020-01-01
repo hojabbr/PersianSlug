@@ -17,15 +17,3 @@ use hojjabr\PersianSlug\Facades\PersianSlug;
 
 $slug = PersianSlug::slug('سلام خوب هستید؟');  // سلام-خوب-هستید
 ```
-
-## Credits
-
-- [author name][link-author]
-- [All Contributors][link-contributors]
-
-
-[ico-downloads]: https://img.shields.io/packagist/dt/hojjabr/persianslug.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/hojjabr/persianslug
-[link-downloads]: https://packagist.org/packages/hojjabr/persianslug
-[link-author]: https://github.com/hojjabr
