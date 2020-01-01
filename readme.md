@@ -1,8 +1,5 @@
 # PersianSlug
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-
 Persian Slug generator for Laravel 6
 
 ## Installation
