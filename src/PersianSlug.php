@@ -1,6 +1,6 @@
 <?php
 
-namespace hojjabr\PersianSlug;
+namespace hojabbr\PersianSlug;
 
 class PersianSlug
 {
