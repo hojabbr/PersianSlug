@@ -1,6 +1,6 @@
 <?php
 
-namespace hojjabr\PersianSlug;
+namespace hojabbr\PersianSlug;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,8 +13,8 @@ class PersianSlugServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'hojjabr');
-        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'hojjabr');
+        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'hojabbr');
+        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'hojabbr');
         // $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
         // $this->loadRoutesFrom(__DIR__.'/routes.php');
 
@@ -63,17 +63,17 @@ class PersianSlugServiceProvider extends ServiceProvider
 
         // Publishing the views.
         /*$this->publishes([
-            __DIR__.'/../resources/views' => base_path('resources/views/vendor/hojjabr'),
+            __DIR__.'/../resources/views' => base_path('resources/views/vendor/hojabbr'),
         ], 'persianslug.views');*/
 
         // Publishing assets.
         /*$this->publishes([
-            __DIR__.'/../resources/assets' => public_path('vendor/hojjabr'),
+            __DIR__.'/../resources/assets' => public_path('vendor/hojabbr'),
         ], 'persianslug.views');*/
 
         // Publishing the translation files.
         /*$this->publishes([
-            __DIR__.'/../resources/lang' => resource_path('lang/vendor/hojjabr'),
+            __DIR__.'/../resources/lang' => resource_path('lang/vendor/hojabbr'),
         ], 'persianslug.views');*/
 
         // Registering package commands.
