@@ -1,6 +1,6 @@
 <?php
 
-namespace hojjabr\PersianSlug\Facades;
+namespace hojabbr\PersianSlug\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
